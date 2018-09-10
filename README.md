@@ -4,7 +4,7 @@ Saleforce Query Assistant is a web based application for running Salesforce quer
 
 Please refer the [UI Overview](https://github.com/magesh83/sf_query_assistant/blob/master/README.md#ui-overview) section below to view the screenshots.
 
-[Using Salesforce Query Assistant](https://medium.com/@Maheshj_83/salesforce-query-assistant-da3185c4aaab)
+For more details refer the medium post [Using Salesforce Query Assistant](https://medium.com/@Maheshj_83/salesforce-query-assistant-da3185c4aaab)
 
 ## Project Setup
 
