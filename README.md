@@ -1,9 +1,10 @@
-
+# Salesforce Query Assitant [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Access%20Salesforce%20easily%20through%20Salesforce%20query%20assistant&url=https://medium.com/@Maheshj_83/salesforce-query-assistant-da3185c4aaab&hashtags=django,salesforce,soql)
 ## Overview
 Saleforce Query Assistant is an open source web based application built using Django and Simple_salesforce API to run Salesforce Queries(SOQL).
 
-Please refer the [UI Overview](https://github.com/magesh83/sf_query_assistant/blob/master/README.md#ui-overview) section below to view the Web portal.
+Please refer the [UI Overview](https://github.com/magesh83/sf_query_assistant/blob/master/README.md#ui-overview) section below to view the screenshots.
 
+[Using Salesforce Query Assistant](https://medium.com/@Maheshj_83/salesforce-query-assistant-da3185c4aaab)
 
 ## Project Setup
 
