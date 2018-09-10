@@ -1,0 +1,9 @@
+env
+*.DS_Store
+*.pyc
+__pycache__
+/salesforce_query_assist/static/assets/
+/salesforce_query_assist/querya/migrations/
+db.sqlite*
+config.ini
+gitexec.sh
