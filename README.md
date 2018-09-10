@@ -150,14 +150,14 @@ In the login page use the username, password created in superuser step above  or
 
 ### Query tab:
 
-![Query]()
+![Query](https://user-images.githubusercontent.com/14313102/45288908-7100a180-b509-11e8-8be3-21f24e0d5932.png)
 
 ### History:
 
-![History]()
+![History](https://user-images.githubusercontent.com/14313102/45288926-7c53cd00-b509-11e8-9883-2436ffa27b0a.png)
 
 ### Answerset:
 
-![Answerset]()
+![Answerset](https://user-images.githubusercontent.com/14313102/45288949-8d9cd980-b509-11e8-9255-ab26c978da30.png)
 
 
